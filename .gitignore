@@ -1,3 +1,10 @@
 # For MAcOS
 **/**.xcodeproj
 **/**.DS_Store
+
+# For Codeblocks (Windows)
+**/**.cbp
+**/**.layout
+**/**.depend
+**/bin/**
+**/obj/**
